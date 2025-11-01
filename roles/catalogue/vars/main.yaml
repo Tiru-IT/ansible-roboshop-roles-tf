@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.tirusatrapu.fun
+MONGODB_HOST: mongodb-{{ env }}.tirusatrapu.fun
