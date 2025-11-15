@@ -3,7 +3,7 @@ REDIS_HOST: redis-{{ env }}.tirusatrapu.fun
 CATALOGUE_HOST: catalogue-{{ env }}.tirusatrapu.fun
 USER_HOST: user-{{ env }}.tirusatrapu.fun
 CART_HOST: cart-{{ env }}.tirusatrapu.fun
-MYSQL_HOST: mysql-{{ env }}.tirusatrapu.fun
+MYSQL_HOST: mysql-{{ tier }}.tirusatrapu.fun
 RABBITMQ_HOST: rabbitmq-{{ env }}.tirusatrapu.fun
 SHIPPING_HOST: shipping-{{ env }}.tirusatrapu.fun
 PAYMENT_HOST: payment-{{ env }}.tirusatrapu.fun
